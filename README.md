@@ -122,3 +122,4 @@ ChaminLee, trueman9512@naver.com
 ## License
 
 BeautyAlert is available under the MIT license. See the LICENSE file for more info.
+This project is sponsored by Browserstack.
